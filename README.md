@@ -3,21 +3,16 @@
 
 🛠 Tech Stack
 🎮 Engine
-<img src="https://skillicons.dev/icons?i=unity" />
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 
 💻 Language
-<img src="https://skillicons.dev/icons?i=csharp,python" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ⚙️ Tool & MiddleWare
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 📦 Etc
-<img src="https://skillicons.dev/icons?i=jira,notion" />
-
----
-
-📊 GitHub Activity
-!rlaxorjs26's GitHub Activity Graph
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ---
 
