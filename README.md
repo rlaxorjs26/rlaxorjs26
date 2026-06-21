@@ -2,19 +2,29 @@
 !header
 
 🛠 Tech Stack
+---
+
 🎮 Engine
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+!Unity
+
+<br>
 
 💻 Language
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+!C#
+!Python
+
+<br>
 
 ⚙️ Tool & MiddleWare
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+!GitHub
+
+<br>
 
 📦 Etc
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+!Jira
+!Notion
 
 ---
 
-🏆 GitHub Streak & Statistics
-!GitHub Streak
+📊 GitHub Activity
+!rlaxorjs26's GitHub Activity Graph
