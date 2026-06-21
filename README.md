@@ -1,16 +1,25 @@
-## Hi there 👋
+🌈 Welcome to rlaxorjs26's Profile!
+!header
 
-<!--
-**rlaxorjs26/rlaxorjs26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+🎮 Engine
+<img src="https://skillicons.dev/icons?i=unity" />
 
-Here are some ideas to get you started:
+💻 Language
+<img src="https://skillicons.dev/icons?i=csharp,python" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tool & MiddleWare
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+📦 Etc
+<img src="https://skillicons.dev/icons?i=jira,notion" />
+
+---
+
+📊 GitHub Activity
+!rlaxorjs26's GitHub Activity Graph
+
+---
+
+🏆 GitHub Streak & Statistics
+!GitHub Streak
